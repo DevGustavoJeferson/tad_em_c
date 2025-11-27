@@ -1,0 +1,38 @@
+# Compilados e binários
+*.out
+*.exe
+*.o
+*.a
+*.so
+*.dll
+
+# Arquivos de build
+/build/
+Debug/
+Release/
+
+# Arquivos temporários do sistema
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Arquivos de editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Backups comuns
+*~
+*.bak
+*.old
+
+# macOS (se um dia usar)
+.DS_Store
+
+# Linux
+*.pid
+
+# Windows
+Thumbs.db
+desktop.ini
